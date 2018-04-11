@@ -10,4 +10,4 @@ do
     n=$(( $n / 10 ))
 done
  
-echo  "sum of number is $b"
+echo  "sum of number is $b"12
